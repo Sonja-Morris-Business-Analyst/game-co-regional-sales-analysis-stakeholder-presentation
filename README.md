@@ -8,62 +8,60 @@ The analysis focused on identifying changes in regional market share between Nor
 
 A total of 16,598 sales records were analyzed to identify long-term regional trends, market shifts, and sales concentration patterns.
 
-Business Problem
+# Business Problem
+
 GameCo was planning its 2017 marketing budget based on the assumption that regional sales patterns had remained stable over time.
 The objective of this analysis was to determine whether regional demand had shifted between 2006 and 2016 and to identify how marketing investment should be adjusted to maximize ROI.
-Key Business Questions
-Question 1
-Has the regional distribution of video game sales remained stable over time?
-Answer
-No.
+
+# Key Business Questions
+
+# Has the regional distribution of video game sales remained stable over time?
+
 The analysis found a significant shift in global sales distribution between 2006 and 2016.
 Europe steadily increased its share of global sales while North America's share declined.
 By 2016, Europe had overtaken North America as the largest regional market.
-Question 2
-Which region should receive the largest share of the 2017 marketing budget?
-Answer
-Europe.
+
+# Which region should receive the largest share of the 2017 marketing budget?
+
 The data showed Europe accounting for approximately 37.7% of global sales compared with approximately 31.9% for North America in 2016.
 Marketing investment should therefore be reallocated to reflect current market realities rather than historical assumptions.
-Question 3
-Are customer preferences consistent across all regions?
-Answer
-No.
+
+# Are customer preferences consistent across all regions?
+
 Significant regional differences exist.
 North America favors Shooter and Sports games.
 Europe shows strong demand for Racing and RPG titles.
 Japan strongly favors RPG and Fighting genres.
 Other regions display more balanced genre preferences.
 These differences suggest that a global one-size-fits-all marketing strategy may not maximize returns.
-Question 4
-Should GameCo use a uniform global marketing strategy?
-Answer
-No.
+
+# Should GameCo use a uniform global marketing strategy?
+
 Regional differences in both market size and genre preference suggest that localized marketing campaigns are likely to outperform a uniform global strategy.
 Targeted regional investments would better align with customer demand.
-Question 5
-How concentrated are video game sales?
-Answer
+
+# How concentrated are video game sales?
+
 Sales follow a long-tail distribution.
 Most games generate modest sales, while a small number of blockbuster titles account for a disproportionate share of revenue.
 This suggests GameCo should maintain a diversified portfolio while retaining flexibility to increase support for breakout successes.
-Business Recommendations
-Recommendation 1
-Increase European marketing investment to reflect its position as the largest regional market.
-Recommendation 2
-Maintain a targeted Japan strategy focused on RPG and Fighting game audiences.
-Recommendation 3
-Review regional sales performance quarterly rather than relying on historical assumptions.
-Recommendation 4
-Develop region-specific marketing campaigns aligned with local genre preferences.
-Recommendation 5
-Maintain a diversified release portfolio while allocating additional resources to emerging blockbuster titles.
-Why This Matters
-This is the section many analysts forget.
-Add something like:
+
+# Business Recommendations
+
+1. Increase European marketing investment to reflect its position as the largest regional market.
+
+2. Maintain a targeted Japan strategy focused on RPG and Fighting game audiences.
+
+3. Review regional sales performance quarterly rather than relying on historical assumptions.
+
+4. Develop region-specific marketing campaigns aligned with local genre preferences.
+
+5. Maintain a diversified release portfolio while allocating additional resources to emerging blockbuster titles.
+
+# Why This Matters
+
 This project demonstrates how data analysis can challenge executive assumptions and improve strategic decision-making. By identifying shifts in regional demand and customer preferences, organizations can allocate marketing resources more effectively and improve return on investment.
 
----
 
 ## Business Objective
 
@@ -71,7 +69,6 @@ GameCo planned its 2017 marketing strategy based on the assumption that regional
 
 The objective of this analysis was to test that assumption and provide data-driven recommendations for future regional marketing allocation.
 
----
 
 ## Data Preparation & Analysis
 
