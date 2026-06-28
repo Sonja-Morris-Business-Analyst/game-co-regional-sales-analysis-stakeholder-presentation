@@ -2,6 +2,7 @@
 
 ## Project Overview
 ![Project Overview](1.png)
+![Project Overview](7.png)
 
 This project analyzed historical regional video game sales data to evaluate GameCo’s assumption that the global distribution of video game sales remained stable over time.
 
@@ -53,8 +54,6 @@ Most games generate modest sales, while a small number of blockbuster titles acc
 This suggests GameCo should maintain a diversified portfolio while retaining flexibility to increase support for breakout successes.
 
 # Business Recommendations
-
-![Executive Summary](2.png)
 
 1. Increase European marketing investment to reflect its position as the largest regional market.
 
