@@ -2,7 +2,7 @@
 
 ## Project Overview
 ![Project Overview](1.png)
-![Executive Summary](2.png)
+![Second Image](2.png)
 
 This project analyzed historical regional video game sales data to evaluate GameCo’s assumption that the global distribution of video game sales remained stable over time.
 
@@ -19,7 +19,6 @@ The objective of this analysis was to determine whether regional demand had shif
 ![Key Business Questions](3.png)
 
 # Has the regional distribution of video game sales remained stable over time?
-![Regional Distribution Shift](3.png)
 
 The analysis found a significant shift in global sales distribution between 2006 and 2016.
 Europe steadily increased its share of global sales while North America's share declined.
