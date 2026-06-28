@@ -1,7 +1,7 @@
 # GameCo Regional Sales Analysis
 
 ## Project Overview
-![Executive Summary](1.png)
+![Project Overview](1.png)
 This project analyzed historical regional video game sales data to evaluate GameCo’s assumption that the global distribution of video game sales remained stable over time.
 
 The analysis focused on identifying changes in regional market share between North America (NA), Europe (EU), Japan (JP), and Other regions in order to support evidence-based marketing budget allocation for 2017.
