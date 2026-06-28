@@ -53,13 +53,13 @@ This suggests GameCo should maintain a diversified portfolio while retaining fle
 
 ## Business Recommendations
 
-![Recommendation 1](6.png)
+![](6.png)
 
-![Recommendation 2](7.png)
+![](7.png)
 
-![Recommendation 3](8.png)
+![](8.png)
 
-![Recommendation 4](9.png)
+![](9.png)
 
 1. Increase European marketing investment to reflect its position as the largest regional market.
 
