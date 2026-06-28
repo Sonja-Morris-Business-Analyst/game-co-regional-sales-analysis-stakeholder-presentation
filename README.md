@@ -2,6 +2,7 @@
 
 ## Project Overview
 ![Project Overview](1.png)
+
 This project analyzed historical regional video game sales data to evaluate GameCo’s assumption that the global distribution of video game sales remained stable over time.
 
 The analysis focused on identifying changes in regional market share between North America (NA), Europe (EU), Japan (JP), and Other regions in order to support evidence-based marketing budget allocation for 2017.
@@ -10,23 +11,28 @@ A total of 16,598 sales records were analyzed to identify long-term regional tre
 
 # Business Problem
 ![Executive Summary](2.png)
+
 GameCo was planning its 2017 marketing budget based on the assumption that regional sales patterns had remained stable over time.
 The objective of this analysis was to determine whether regional demand had shifted between 2006 and 2016 and to identify how marketing investment should be adjusted to maximize ROI.
 
 # Key Business Questions
+![Key Business Questions](3.png)
 
 # Has the regional distribution of video game sales remained stable over time?
+![Regional Distribution Shift](3.png)
 
 The analysis found a significant shift in global sales distribution between 2006 and 2016.
 Europe steadily increased its share of global sales while North America's share declined.
 By 2016, Europe had overtaken North America as the largest regional market.
 
 # Which region should receive the largest share of the 2017 marketing budget?
+![2017 Marketing Budget Recommendations](4.png)
 
 The data showed Europe accounting for approximately 37.7% of global sales compared with approximately 31.9% for North America in 2016.
 Marketing investment should therefore be reallocated to reflect current market realities rather than historical assumptions.
 
 # Are customer preferences consistent across all regions?
+![Customer Preference by Region](5.png)
 
 Significant regional differences exist.
 North America favors Shooter and Sports games.
@@ -47,6 +53,8 @@ Most games generate modest sales, while a small number of blockbuster titles acc
 This suggests GameCo should maintain a diversified portfolio while retaining flexibility to increase support for breakout successes.
 
 # Business Recommendations
+
+![Executive Summary](2.png)
 
 1. Increase European marketing investment to reflect its position as the largest regional market.
 
@@ -135,13 +143,6 @@ The final presentation refined these visuals to emphasize:
 
 The analysis suggested that GameCo should reconsider a static regional marketing allocation model and increase strategic attention toward the growing European market while continuing to monitor emerging regional trends.
 
-![Executive Summary](3.png)
-![Executive Summary](4.png)
-![Executive Summary](5.png)
-![Executive Summary](6.png)
-![Executive Summary](7.png)
-![Executive Summary](8.png)
-![Executive Summary](9.png)
 ****
 ---
 
