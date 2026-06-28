@@ -51,7 +51,15 @@ Sales follow a long-tail distribution.
 Most games generate modest sales, while a small number of blockbuster titles account for a disproportionate share of revenue.
 This suggests GameCo should maintain a diversified portfolio while retaining flexibility to increase support for breakout successes.
 
-# Business Recommendations
+## Business Recommendations
+
+![Recommendation 1](6.png)
+
+![Recommendation 2](7.png)
+
+![Recommendation 3](8.png)
+
+![Recommendation 4](9.png)
 
 1. Increase European marketing investment to reflect its position as the largest regional market.
 
