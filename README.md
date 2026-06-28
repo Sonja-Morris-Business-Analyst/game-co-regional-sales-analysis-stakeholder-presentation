@@ -2,7 +2,7 @@
 
 ## Project Overview
 ![Project Overview](1.png)
-![Project Overview](7.png)
+![Executive Summary](2.png)
 
 This project analyzed historical regional video game sales data to evaluate GameCo’s assumption that the global distribution of video game sales remained stable over time.
 
@@ -11,7 +11,6 @@ The analysis focused on identifying changes in regional market share between Nor
 A total of 16,598 sales records were analyzed to identify long-term regional trends, market shifts, and sales concentration patterns.
 
 # Business Problem
-![Executive Summary](2.png)
 
 GameCo was planning its 2017 marketing budget based on the assumption that regional sales patterns had remained stable over time.
 The objective of this analysis was to determine whether regional demand had shifted between 2006 and 2016 and to identify how marketing investment should be adjusted to maximize ROI.
